@@ -1,5 +1,10 @@
 ### Hi there 👋
-![GitHub](https://img.shields.io/static/v1?label=&message=Github%20Repository&color=000000&style=for-the-badge&logo=github&logoColor=white)
+[![Twitter](https://img.shields.io/static/v1?label=&message=Twitter&color=1DA1F2&logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/SrRecursive)
+[![GitHub](https://img.shields.io/static/v1?label=&message=GitHub&color=171515&logo=github&logoColor=white&style=for-the-badge)](https://github.com/SrRecursive)
+[![linkedin](https://img.shields.io/static/v1?label=&message=LinkedIn&color=0e76a8&logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/rojohn-ibana)
+[![instagram](https://img.shields.io/static/v1?label=&message=Instagram&color=5B51D8&logo=instagram&logoColor=white&style=for-the-badge)](https://instagram.com/lmnot2blue7)
+
+
 
 <!--
 **SrRecursive/SrRecursive** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
