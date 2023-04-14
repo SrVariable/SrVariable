@@ -15,10 +15,11 @@
 <!--About me END-->
 
 <!--Social Media START-->
-[ ![GitHub](https://img.shields.io/static/v1?label=&message=GitHub&color=171515&logo=github&logoColor=white&style=for-the-badge)](https://github.com/SrRecursive)
+# Social Media
 
 
 <p align = "center">
+[ ![GitHub](https://img.shields.io/static/v1?label=&message=GitHub&color=171515&logo=github&logoColor=white&style=for-the-badge)](https://github.com/SrRecursive)
 
    <a href = "https://github.com/SrRecursive">
       <img src = "https://img.shields.io/static/v1?label=&message=GitHub&color=171515&logo=github&logoColor=white&style=for-the-badge">
