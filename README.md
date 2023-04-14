@@ -1,5 +1,7 @@
 <!--Header-->
+
 Include header.jpg with center alignment
+
 <!--Header END-->
 
 <!--About me START-->
@@ -17,6 +19,7 @@ Include header.jpg with center alignment
 <!--About me END-->
 
 <!--Social Media START-->
+
 # Social Media
 
 ### Feel free to follow!
