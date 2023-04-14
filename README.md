@@ -1,6 +1,6 @@
 <!--Header-->
 
-::HEADER IN PROGRESS::
+<p align="center">HEADER IN PROGRESS</p>
 ![header](header.png)
 
 <!--Header END-->
