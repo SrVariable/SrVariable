@@ -20,7 +20,9 @@ Include header.jpg with center alignment
 # Social Media
 
 ### Feel free to follow!
-![GitHub](https://img.shields.io/static/v1?label=&message=GitHub&color=171515&logo=github&logoColor=white&style=for-the-badge)(https://github.com/SrRecursive)
+
+[![GitHub](https://img.shields.io/static/v1?label=&message=GitHub&color=171515&logo=github&logoColor=white&style=for-the-badge)](https://github.com/SrRecursive)
+
 <p>
 	<a href = "https://github.com/SrRecursive">
 		<img src = "https://img.shields.io/static/v1?label=&message=GitHub&color=171515&logo=github&logoColor=white&style=for-the-badge" />
