@@ -1,6 +1,6 @@
 <!--Header-->
 
-Include header.jpg with center alignment
+![header](plata.png)
 
 <!--Header END-->
 
