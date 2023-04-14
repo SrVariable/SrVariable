@@ -4,8 +4,8 @@
    About me
 </h1>
 <p>
-   <img align = "center" width="200" src = "https://avatars.githubusercontent.com/u/96599624?v=4" />
-   <h3 align = "center">
+   <img src = "https://avatars.githubusercontent.com/u/96599624?v=4" width="200"/>
+   <h3>
       ¡Hey 👋! I'm SrRecursive
    </h3>
 
