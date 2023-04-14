@@ -10,14 +10,15 @@
 - 🚀 **Hobbies:** _In my free-time I like to play videogames, read books or watch movies/series!_
 - 🌱 **I’m currently learning:** _C, C++, CSS, JavaScript, LUA, Python, React_
 - 😄 **Pronouns:** _He/Him_
-
+</p>
 
 <!--About me END-->
+[![twitch](https://img.shields.io/static/v1?label=&message=twitch&color=6441a5&logo=twitch&logoColor=white&style=for-the-badge)](https://twitch.tv/eduardofierropro)
 
 <!--Social Media START-->
 
 <h1>Social Media</h1>
-</p>
+
 <p align = "center">
    <a href = "https://github.com/SrRecursive">
       <img src = "https://img.shields.io/static/v1?label=&message=GitHub&color=171515&logo=github&logoColor=white&style=for-the-badge">
@@ -31,7 +32,7 @@
    <a href = "https://twitter.com/SrRecursive">
       <img src = "https://img.shields.io/static/v1?label=&message=Twitter&color=1DA1F2&logo=twitter&logoColor=white&style=for-the-badge">
    </a>
- </p>
+</p>
  
  <!--Social Media END-->
  
