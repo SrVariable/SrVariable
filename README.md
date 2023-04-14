@@ -1,5 +1,6 @@
 <!--About me START-->
-<h1 align = "center">About me</h1>
+
+<h1>About me</h1>
 <p align = "center">
    <img align = "center" width="200" src = "https://avatars.githubusercontent.com/u/96599624?v=4" />
    <h3 align = "center">¡Hey 👋! I'm SrRecursive </h3>
@@ -11,7 +12,8 @@
 
 <!--About me END-->
 
-<!--Social Media-->
+<!--Social Media START-->
+
 <h1>Social Media</h1>
 </p>
 <p align = "center">
@@ -28,6 +30,9 @@
       <img src = "https://img.shields.io/static/v1?label=&message=Twitter&color=1DA1F2&logo=twitter&logoColor=white&style=for-the-badge">
    </a>
  </p>
+ 
+ <!--Social Media END-->
+ 
 <!--
 **SrRecursive/SrRecursive** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
