@@ -20,7 +20,7 @@
 - 🌱 I’m currently learning: C, C++, CSS, JavaScript, LUA, Python, React
 - 💬 Ask me about: Anything! I'll reply if I know the answer
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Learning how to say "I don't know how to speak [**language**]" in [**language**]
+- ⚡ Fun fact: Learning how to say "I don't know how to speak **_language_**" in **_language_**
 
 
 
