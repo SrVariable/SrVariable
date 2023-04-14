@@ -6,7 +6,7 @@
    <h3 align = "center">¡Hey 👋! I'm SrRecursive </h3>
  
 - 🌱 **I’m currently learning:** _C, C++, CSS, JavaScript, LUA, Python, React_
-- 💬 **Ask me about: Anything!** _I'll reply if I know the answer_
+- 💬 **Ask me about:** _Anything! I'll reply if I know the answer_
 - 😄 **Pronouns:** _He/Him_
 - ⚡ **Fun tip:** _Learn how to say "I don't know how to speak **language**" in **language**_
 
