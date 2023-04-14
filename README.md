@@ -1,4 +1,5 @@
 ### Hi there 👋
+[https://img.shields.io/static/v1?label=&message=GitHub&color=000000&style=for-the-badge&logo=github&logoColor=white]
 
 <!--
 **SrRecursive/SrRecursive** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
