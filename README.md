@@ -1,6 +1,6 @@
 <!--Header-->
 
-![header](Plata.png)
+![header](header.png)
 
 <!--Header END-->
 
