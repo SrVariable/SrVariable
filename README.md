@@ -19,8 +19,9 @@
 
 
 <p align = "center">
+   <div style = "text-align:center;">
 [ ![GitHub](https://img.shields.io/static/v1?label=&message=GitHub&color=171515&logo=github&logoColor=white&style=for-the-badge)](https://github.com/SrRecursive)
-
+   </div>
    <a href = "https://github.com/SrRecursive">
       <img src = "https://img.shields.io/static/v1?label=&message=GitHub&color=171515&logo=github&logoColor=white&style=for-the-badge">
    </a>
