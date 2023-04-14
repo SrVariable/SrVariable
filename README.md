@@ -3,7 +3,7 @@
 <h1>
    About me
 </h1>
-<p align = "center">
+<p>
    <img align = "center" width="200" src = "https://avatars.githubusercontent.com/u/96599624?v=4" />
    <h3 align = "center">
       ¡Hey 👋! I'm SrRecursive
