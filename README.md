@@ -19,7 +19,7 @@
    Social Media
 </h1>
 
-<p align = "center">
+<p align = "left">
    <a href = "https://github.com/SrRecursive">
       <img src = "https://img.shields.io/static/v1?label=&message=GitHub&color=171515&logo=github&logoColor=white&style=for-the-badge" />
    </a>
