@@ -5,10 +5,10 @@
    <img align = "center" width="200" src = "https://avatars.githubusercontent.com/u/96599624?v=4" />
    <h3 align = "center">¡Hey 👋! I'm SrRecursive </h3>
  
-- 🌱 **I’m currently learning:** C, C++, CSS, JavaScript, LUA, Python, React
-- 💬 **Ask me about: Anything!** I'll reply if I know the answer
-- 😄 **Pronouns:** He/Him
-- ⚡ **Fun tip:** Learn how to say "I don't know how to speak **_language_**" in **_language_**
+- 🌱 **I’m currently learning:** _C, C++, CSS, JavaScript, LUA, Python, React_
+- 💬 **Ask me about: Anything!** _I'll reply if I know the answer_
+- 😄 **Pronouns:** _He/Him_
+- ⚡ **Fun tip:** _Learn how to say "I don't know how to speak **language**" in **language**_
 
 <!--About me END-->
 
