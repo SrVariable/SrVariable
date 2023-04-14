@@ -10,8 +10,6 @@
 
 # About me
 
-![Icon](https://avatars.githubusercontent.com/u/96599624?v=4)
-
 - ❓**Ask me about:** _Anything! I'll reply if I know the answer_
 - ⚡ **Fun tip:** _Learn how to say "I don't know how to speak **language**" in **language**_
 - 🚀 **Hobbies:** _In my free-time I like to play videogames, read books or watch movies/series!_
