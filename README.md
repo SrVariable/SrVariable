@@ -18,6 +18,12 @@
 
 <!--About me END-->
 
+<!--Trophies START-->
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=SrRecursive)](https://github.com/ryo-ma/github-profile-trophy)
+
+<!--Trophies END-->
+
 <!--Social Media START-->
 <h1>
    Social Media
