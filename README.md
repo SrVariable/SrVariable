@@ -18,7 +18,7 @@
 
 <h1>Social Media</h1>
 </p>
-<p align = "center">
+<p align = "center" style="text-decoration: none !important;">
    <a href = "https://github.com/SrRecursive" style = "text-decoration: none;">
       <img src = "https://img.shields.io/static/v1?label=&message=GitHub&color=171515&logo=github&logoColor=white&style=for-the-badge">
    </a>
