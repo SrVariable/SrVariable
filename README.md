@@ -33,14 +33,3 @@
  
  <!--Social Media END-->
  
-<!--
-**SrRecursive/SrRecursive** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🌱 I’m currently learning: C, C++, CSS, JavaScript, LUA, Python, React
-- 💬 Ask me about: Anything! I'll reply if I know the answer
-- 📫 How to reach me: Contact me on any of my Social Medias!
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
--->
