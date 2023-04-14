@@ -19,10 +19,10 @@
 <h1>Social Media</h1>
 </p>
 <p align = "center">
-   <a href = "https://github.com/SrRecursive" style="cursor: pointer;">
+   <a href = "https://github.com/SrRecursive">
       <img src = "https://img.shields.io/static/v1?label=&message=GitHub&color=171515&logo=github&logoColor=white&style=for-the-badge">
    </a>
-   <a href = "https://instagram.com/lmnot2blue7" style="cursor: pointer;">
+   <a href = "https://instagram.com/lmnot2blue7">
       <img src = "https://img.shields.io/static/v1?label=&message=Instagram&color=FF69B4&logo=instagram&logoColor=red&style=for-the-badge">
    </a>
    <a href = "https://www.linkedin.com/in/rojohn-ibana">
