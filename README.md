@@ -1,8 +1,8 @@
-<p align="center">
-   <img align="center" width="200" src="https://avatars.githubusercontent.com/u/96599624?v=4" />
-   <h3 align="center">¡Hey 👋! Soy SrRecursive 👨🏻‍💻</h3>
+<p align = "center">
+   <img align = "center" width="200" src = "https://avatars.githubusercontent.com/u/96599624?v=4" />
+   <h3 align = "center">¡Hey 👋! I'm SrRecursive </h3>
 </p>
-
+<p align = "center">
    <a href = "https://github.com/SrRecursive">
       <img src = "https://img.shields.io/static/v1?label=&message=GitHub&color=171515&logo=github&logoColor=white&style=for-the-badge">
    </a>
@@ -15,7 +15,13 @@
    <a href = "https://twitter.com/SrRecursive">
       <img src = "https://img.shields.io/static/v1?label=&message=Twitter&color=1DA1F2&logo=twitter&logoColor=white&style=for-the-badge">
    </a>
-
+ </p>
+ 
+- 🌱 I’m currently learning: C, C++, CSS, JavaScript, LUA, Python, React
+- 💬 Ask me about: Anything! I'll reply if I know the answer
+- 📫 How to reach me: Contact me on any of my Social Medias!
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: ...
 
 
 
