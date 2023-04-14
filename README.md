@@ -8,7 +8,6 @@ Include header.jpg with center alignment
 
 ![Icon](https://avatars.githubusercontent.com/u/96599624?v=4)
 
-### ¡Hey 👋! I'm SrRecursive
 - ❓**Ask me about:** _Anything! I'll reply if I know the answer_
 - ⚡ **Fun tip:** _Learn how to say "I don't know how to speak **language**" in **language**_
 - 🚀 **Hobbies:** _In my free-time I like to play videogames, read books or watch movies/series!_
@@ -18,12 +17,10 @@ Include header.jpg with center alignment
 <!--About me END-->
 
 <!--Social Media START-->
-<h1>
-  	Social Media
-</h1>
-<h3>
-	Feel free to follow!
-</h3>
+# Social Media
+
+### Feel free to follow!
+![GitHub](https://img.shields.io/static/v1?label=&message=GitHub&color=171515&logo=github&logoColor=white&style=for-the-badge)(https://github.com/SrRecursive)
 <p>
 	<a href = "https://github.com/SrRecursive">
 		<img src = "https://img.shields.io/static/v1?label=&message=GitHub&color=171515&logo=github&logoColor=white&style=for-the-badge" />
