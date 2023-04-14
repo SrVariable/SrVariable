@@ -12,13 +12,12 @@ Include header.jpg with center alignment
 	<h3>
 		¡Hey 👋! I'm SrRecursive
 	</h3>
-	
+</p>
 - 💬 **Ask me about:** _Anything! I'll reply if I know the answer_
 - ⚡ **Fun tip:** _Learn how to say "I don't know how to speak **language**" in **language**_
 - 🚀 **Hobbies:** _In my free-time I like to play videogames, read books or watch movies/series!_
 - 🌱 **I’m currently learning:** _C, C++, CSS, JavaScript, LUA, Python, React_
 - 😄 **Pronouns:** _He/Him_
-</p>
 
 <!--About me END-->
 
