@@ -2,7 +2,7 @@
 [![Twitter](https://img.shields.io/static/v1?label=&message=Twitter&color=1DA1F2&logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/SrRecursive)
 [![GitHub](https://img.shields.io/static/v1?label=&message=GitHub&color=171515&logo=github&logoColor=white&style=for-the-badge)](https://github.com/SrRecursive)
 [![linkedin](https://img.shields.io/static/v1?label=&message=LinkedIn&color=0e76a8&logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/rojohn-ibana)
-[![instagram](https://img.shields.io/static/v1?label=&message=Instagram&color=FF69B4&logo=instagram&logoColor=white&style=for-the-badge)](https://instagram.com/lmnot2blue7)
+[![instagram](https://img.shields.io/static/v1?label=&message=Instagram&color=FFC0CB&logo=instagram&logoColor=white&style=for-the-badge)](https://instagram.com/lmnot2blue7)
 
 
 
