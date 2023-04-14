@@ -1,9 +1,13 @@
 <!--About me START-->
 
-<h1>About me</h1>
+<h1>
+   About me
+</h1>
 <p align = "center">
    <img align = "center" width="200" src = "https://avatars.githubusercontent.com/u/96599624?v=4" />
-   <h3 align = "center">¡Hey 👋! I'm SrRecursive </h3>
+   <h3 align = "center">
+      ¡Hey 👋! I'm SrRecursive
+   </h3>
 
 - 💬 **Ask me about:** _Anything! I'll reply if I know the answer_
 - ⚡ **Fun tip:** _Learn how to say "I don't know how to speak **language**" in **language**_
@@ -18,8 +22,10 @@
 <h1>
    Social Media
 </h1>
-
-<p align = "left">
+<h3>
+   Feel free to follow!
+</h3>
+<p>
    <a href = "https://github.com/SrRecursive">
       <img src = "https://img.shields.io/static/v1?label=&message=GitHub&color=171515&logo=github&logoColor=white&style=for-the-badge" />
    </a>
