@@ -2,15 +2,13 @@
 
 <p align="center"><strong><em>HEADER IN PROGRESS</em></strong></p>
 
-![header](header.png)
+
 
 <!--Header END-->
 
 <!--About me START-->
 
 # About me
-
-![Icon](https://avatars.githubusercontent.com/u/96599624?v=4)
 
 - ❓**Ask me about:** _Anything! I'll reply if I know the answer_
 - ⚡ **Fun tip:** _Learn how to say "I don't know how to speak **language**" in **language**_
