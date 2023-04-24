@@ -20,6 +20,19 @@
 
 <!--About me END-->
 
+<!-- Repositories START-->
+
+# Repositories
+
+Watch out these repositories!
+
+|	Repository																							|	Description																					|	
+|-------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|	
+|	[42](https://github.com/SrRecursive/42)																| 	My progress in 42																			|
+|	[ForFun](https://github.com/SrRecursive/ForFun)														| 	This is a recopilation of programs I do for fun												|
+
+<!-- Repositories END>
+
 <!--Social Media START-->
 
 # Social Media
