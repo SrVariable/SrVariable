@@ -11,7 +11,7 @@
 # About me
 
 - ❓**Ask me about:** _Anything! I'll reply if I know the answer_
-- ⚡ **Fun tip:** _Learn how to say "I don't know how to speak **language**" in **language**_
+- ⚡ **Fun tip:** _Learn how to say "I don't know how to speak **language**" in any **language**_
 - 🚀 **Hobbies:** _In my free-time I like to play videogames, read books or watch movies/series!_
 - 🌱 **I’m currently learning:** _C, C++, JavaScript, Python_
 - 😄 **Pronouns:** _He/Him_
