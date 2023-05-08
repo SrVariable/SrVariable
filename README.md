@@ -2,8 +2,7 @@
 
 <p align="center"><strong><em>HEADER IN PROGRESS</em></strong></p>
 
-[Header](https://github.com/SrRecursive/SrRecursive/header.png)
-
+![Header](https://github.com/SrRecursive/SrRecursive/blob/main/header.png)
 <!--Header END-->
 
 <!--About me START-->
