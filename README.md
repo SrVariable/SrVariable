@@ -16,38 +16,11 @@ Nowadays, I keep **learning every day** and trying to **improve myself**.
 
 # Skills
 
-- **C**: I used this language for around **5 months** and is my primary language of focus. As a **low-level language** it has allowed me to develop skills in **Basis Programming Concepts**, **Memory Management**, **Pointers**, **Algorithms**, **Data Structures** and so on.
-- **Git**: I used git for around **5 months** as well. 
-- **Bash**: <!--TODO: Explanation-->
-- **Shell**: <!--TODO: Explanation-->
-- **HTML**: <!--TODO: Explanation-->
-- **CSS**: <!--TODO: Explanation-->
-- **Photoshop**: <!--TODO: Explanation-->
-- **Office**: <!--TODO: Explanation-->
-
-# Learning/Improving
-
-- **Rust**: <!--TODO: Explanation-->
-- **Docker**: <!--TODO: Explanation-->
-- **Python**: <!--TODO: Explanation-->
-- **Unity**: <!--TODO: Explanation-->
-- **C++**: <!--TODO: Explanation-->
-- **React**: <!--TODO: Explanation-->
-- **NodeJS**: <!--TODO: Explanation-->
-- **JavaScript**: <!--TODO: Explanation-->
-- **Java**: <!--TODO: Explanation-->
-
-# Repositories
-
-|	Name												|	Description										|
-|-------------------------------------------------------|---------------------------------------------------|
-|	[42 Málaga](https://github.com/SrRecursive/42Malaga)| 	My progress in 42								|
-|	[ForFun](https://github.com/SrRecursive/ForFun)		| 	This is a recopilation of programs I do for fun	|
+[![My Skills](https://skillicons.dev/icons?i=c,git,ps,python,bash,cpp,html,css)](https://skillicons.dev)
 
 # Social Media
 
 [![GitHub](https://img.shields.io/static/v1?label=&message=GitHub&color=171515&logo=github&logoColor=white&style=for-the-badge)](https://github.com/SrRecursive)
-[![Instagram](https://img.shields.io/static/v1?label=&message=Instagram&color=FF69B4&logo=instagram&logoColor=red&style=for-the-badge)](https://instagram.com/lmnot2blue7)
 [![LinkedIn](https://img.shields.io/static/v1?label=&message=LinkedIn&color=0e76a8&logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/ribanab/)
 
 # Fun fact
