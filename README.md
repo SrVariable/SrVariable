@@ -58,11 +58,11 @@ Nowadays, I keep **learning every day** and trying to **improve myself**.
 
 ## Stats
 
-[![SrRecursive's GitHub stats](https://github-readme-stats.vercel.app/api?username=srrecursive&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![SrRecursive's GitHub stats](https://github-readme-stats.vercel.app/api?username=srrecursive&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![SrRecursive's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=srrecursive&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![SrRecursive's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=srrecursive&layout=donut&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=srrecursive&theme=onedark&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=srrecursive&theme=dracula&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=srrecursive&color=blueviolet&style=flat)
 
