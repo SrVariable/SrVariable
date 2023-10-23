@@ -1,6 +1,6 @@
 <!-- TODO: Redo header -->
 
-# About me
+## About me
 
 Welcome to my profile! My name is **Rojohn**, and I am currently 20 years old. Since I was a kid, I have **loved playing video games**, and that passion is still alive up until now.
 
@@ -14,16 +14,42 @@ During the Piscine I learned a lot, specially about the **C** language, **Git**,
 
 Nowadays, I keep **learning every day** and trying to **improve myself**.
 
-# Skills
+## Skills
 
-[![My Skills](https://skillicons.dev/icons?i=c,git,ps,python,bash,cpp,html,css)](https://skillicons.dev)
+### Languages
 
-# Social Media
+![Bash](https://img.shields.io/badge/Bash-303030?style=for-the-badge&logo=GNUBash)
+![C](https://img.shields.io/badge/C-1e4882?style=for-the-badge&logo=C)
+![CPP](https://img.shields.io/badge/CPP-093775?style=for-the-badge&logo=CPlusPlus)
+![JavaScript](https://img.shields.io/badge/JavaScript-fff443?style=for-the-badge&logo=JavaScript&logoColor=white)
+![Python](https://img.shields.io/badge/python-ffea50?style=for-the-badge&logo=Python)
+
+### Web
+
+![CSS3](https://img.shields.io/badge/CSS3-0064db?style=for-the-badge&logo=CSS3)
+![HTML5](https://img.shields.io/badge/HTML5-fb8b42?style=for-the-badge&logo=HTML5)
+
+### Design Tools
+
+![GIMP](https://img.shields.io/badge/GIMP-2a2a2a?style=for-the-badge&logo=GIMP)
+![Photoshop](https://img.shields.io/badge/Photoshop-002859?style=for-the-badge&logo=AdobePhotoshop)
+
+### Version Control
+
+![Git](https://img.shields.io/badge/git-FF6400?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/static/v1?label=&message=GitHub&color=171515&logo=github&logoColor=white&style=for-the-badge)
+
+### IDE
+
+![VIM](https://img.shields.io/badge/VIM-2f7a12?style=for-the-badge&logo=VIM)
+![VS Code](https://img.shields.io/badge/VS_Code-2f92b2?style=for-the-badge&logo=VisualStudioCode)
+
+## Social Media
 
 [![GitHub](https://img.shields.io/static/v1?label=&message=GitHub&color=171515&logo=github&logoColor=white&style=for-the-badge)](https://github.com/SrRecursive)
 [![LinkedIn](https://img.shields.io/static/v1?label=&message=LinkedIn&color=0e76a8&logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/ribanab/)
 
-# Fun fact
+## Fun fact
 
 - Learning how to say "I don't know how to speak _whatever language_" in that language might be helpful!
 - My name is pronounced _ɹɑ-dʒæn_ (IPA) _roh-jahn_ (SPA)
