@@ -75,7 +75,5 @@ Nowadays, I keep **learning every day** and trying to **improve myself**.
 
 - Learning how to say "I don't know how to speak _whatever language_" in that language might be helpful!
 - My name is pronounced _ɹɑ-dʒæn_ (IPA) _roh-jahn_ (SPA)
-- 
-## GitHub Contributions As Snake Game
 
-![snake animation](https://github.com/SrRecursive/SrRecursive/blob/output/github-contribution-grid-snake.svg)
+![snake animation](https://github.com/SrRecursive/SrRecursive/blob/output/github-contribution-grid-snake-dark.svg)
