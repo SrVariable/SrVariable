@@ -71,7 +71,11 @@ Nowadays, I keep **learning every day** and trying to **improve myself**.
 [![GitHub](https://img.shields.io/static/v1?label=&message=GitHub&color=171515&logo=github&logoColor=white&style=for-the-badge)](https://github.com/SrRecursive)
 [![LinkedIn](https://img.shields.io/static/v1?label=&message=LinkedIn&color=0e76a8&logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/ribanab/)
 
-## Fun fact
+## Fun Fact
 
 - Learning how to say "I don't know how to speak _whatever language_" in that language might be helpful!
 - My name is pronounced _ɹɑ-dʒæn_ (IPA) _roh-jahn_ (SPA)
+- 
+## GitHub Contributions As Snake Game
+
+![snake animation](https://github.com/SrRecursive/SrRecursive/blob/output/github-contribution-grid-snake2.svg)
