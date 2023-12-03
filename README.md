@@ -78,4 +78,4 @@ Nowadays, I keep **learning every day** and trying to **improve myself**.
 - 
 ## GitHub Contributions As Snake Game
 
-![snake animation](https://github.com/SrRecursive/SrRecursive/tree/output/github-contribution-grid-snake.svg)
+![snake animation](https://github.com/SrRecursive/SrRecursive/blob/output/github-contribution-grid-snake.svg)
