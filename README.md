@@ -58,17 +58,17 @@ Nowadays, I keep **learning every day** and trying to **improve myself**.
 
 ## Stats
 
-[![SrRecursive's GitHub stats](https://github-readme-stats.vercel.app/api?username=srrecursive&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![SrVariable's GitHub stats](https://github-readme-stats.vercel.app/api?username=srvariable&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![SrRecursive's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=srrecursive&layout=donut&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![SrVariable's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=srvariable&layout=donut&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=srrecursive&theme=dracula&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=srvariable&theme=dracula&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=srrecursive&color=blueviolet&style=flat)
+![Profile View Counter](https://komarev.com/ghpvc/?username=srvariable&color=blueviolet&style=flat)
 
 ## Social Media
 
-[![GitHub](https://img.shields.io/static/v1?label=&message=GitHub&color=171515&logo=github&logoColor=white&style=for-the-badge)](https://github.com/SrRecursive)
+[![GitHub](https://img.shields.io/static/v1?label=&message=GitHub&color=171515&logo=github&logoColor=white&style=for-the-badge)](https://github.com/SrVariable)
 [![LinkedIn](https://img.shields.io/static/v1?label=&message=LinkedIn&color=0e76a8&logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/ribanab/)
 
 ## Fun Fact
@@ -76,4 +76,4 @@ Nowadays, I keep **learning every day** and trying to **improve myself**.
 - Learning how to say "I don't know how to speak _whatever language_" in that language might be helpful!
 - My name is pronounced _ɹɑ-dʒæn_ (IPA) _roh-jahn_ (SPA)
 
-![snake animation](https://github.com/SrRecursive/SrRecursive/blob/output/github-contribution-grid-snake-dark.svg)
+![snake animation](https://github.com/SrVariable/SrVariable/blob/output/github-contribution-grid-snake-dark.svg)
