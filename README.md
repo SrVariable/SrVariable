@@ -49,13 +49,6 @@ Nowadays, I keep **learning every day** and trying to **improve myself**.
 ![Linux](https://img.shields.io/badge/Linux-1e1e1e?style=for-the-badge&logo=Linux)
 ![Windows](https://img.shields.io/badge/Windows-2f92b2?style=for-the-badge&logo=Windows)
 
-
-## 42 Projects
-
-[![Libft](https://github-readme-stats.vercel.app/api/pin/?username=srrecursive&repo=libft&theme=dark&hide_border=true&bg_color=7341d7)](https://github.com/srrecursive/libft)
-[![Printf](https://github-readme-stats.vercel.app/api/pin/?username=srrecursive&repo=printf&theme=dark&hide_border=true&bg_color=7341d7)](https://github.com/srrecursive/printf)
-[![Get_next_line](https://github-readme-stats.vercel.app/api/pin/?username=srrecursive&repo=get_next_line&theme=dark&hide_border=true&bg_color=7341d7)](https://github.com/srrecursive/get_next_line)
-
 ## Stats
 
 [![SrVariable's GitHub stats](https://github-readme-stats.vercel.app/api?username=srvariable&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
@@ -63,6 +56,8 @@ Nowadays, I keep **learning every day** and trying to **improve myself**.
 [![SrVariable's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=srvariable&layout=donut&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Trophy](https://github-profile-trophy.vercel.app/?username=srvariable&theme=dracula&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+![GitHub Contributions](https://github.com/SrVariable/SrVariable/blob/output/github-contribution-grid-snake-dark.svg)
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=srvariable&color=blueviolet&style=flat)
 
@@ -75,5 +70,3 @@ Nowadays, I keep **learning every day** and trying to **improve myself**.
 
 - Learning how to say "I don't know how to speak _whatever language_" in that language might be helpful!
 - My name is pronounced _ɹɑ-dʒæn_ (IPA) _roh-jahn_ (SPA)
-
-![snake animation](https://github.com/SrVariable/SrVariable/blob/output/github-contribution-grid-snake-dark.svg)
