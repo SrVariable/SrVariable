@@ -81,7 +81,9 @@ Hey! My name is Rojohn and I'm 20 years old. I'm currently studying at 42 Malaga
 <table>
     <tr>
         <td><strong>Currently using</strong></td>
-        <td><a href="https://www.debian.org/"><img src="./icons/debian.svg"/></</a>td>
+        <td>
+            <a href="https://www.debian.org/"><img src="./icons/debian.svg"/></a>
+        </td>
     </tr>
     <tr>
         <td><strong>Used before</strong></td>
