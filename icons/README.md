@@ -1,4 +1,15 @@
-# Icon Sources
+# SrVariable/icons
+
+## Disclaimer
+
+> [!IMPORTANT]
+> The icons in this directory are not mine. They are from the internet.
+> I have collected them from various sources and put them here for my own use.
+> I have tried to give credit to the original authors where possible.
+> If you are the original author of any of these icons and would like me to remove
+> them, please let me know.
+
+## Sources
 
 - Alacritty: https://svgl.app/directory/software?search=alacritty
 - Apple: https://svgl.app/directory/software?search=apple
