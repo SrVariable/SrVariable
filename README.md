@@ -1,72 +1,136 @@
-<!-- TODO: Redo header -->
+## 👋 Brief description
 
-## About me
+Hey! My name is Rojohn and I'm 20 years old. I'm currently studying at 42 Malaga.
 
-Welcome to my profile! My name is **Rojohn**, and I am currently 20 years old. Since I was a kid, I have **loved playing video games**, and that passion is still alive up until now.
+> ***I don't program, I do magic.***
 
-In my second year of high school, I discovered the seed for my programming path through the ICT subject, even though I only learned a few basic **Office skills** and **GIMP**. In my fourth year of high school, I reinforced my **informatic knowledge** a little bit, because I learned basic hardware things, such as pc components and how worked more or less.
+## 🛠️ Skills
 
-In baccalaureate I got my first touch with programming, I started with **PseInt** to learn the basis of coding through pseudocode and then we did some **Java** programs. I also learned **HTML**, **CSS**, and did little things with **WordPress** and **FileZilla**.
+### 🔤 Programming Languages
 
-In the University I learned **C++** and **C**, however my knowledge about programming didn't increase until the beginning of 2023, when I remembered a friend said something about a 42 Piscine. I tried it out, passed the test, the Piscine and I'm currently a student.
+<table>
+    <tr>
+        <td><strong>Adquired</strong></td>
+        <td>
+            <a href="https://www.gnu.org/software/bash"/><img src="./icons/bash.svg"/></a>
+            <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="./icons/c.svg"/></a>
+            <a href="https://cplusplus.com/"><img src="./icons/cpp.svg"/></a>
+            <a href="https://www.java.com"><img src="./icons/java.svg"/></a>
+            <a href="https://www.python.org/"><img src="./icons/python.svg"/></a>
+        </td>
+    </tr>
+    <tr>
+        <td><strong>Learning</strong></td>
+        <td>
+            <a href="https://www.rust-lang.org"><img src="./icons/rust.svg"/></a>
+        </td>
+    </tr>
+<table>
 
-During the Piscine I learned a lot, specially about the **C** language, **Git**, **Shell** and **Bash**. I also discovered that I love being **autodidactic**.
+### 💻 Web Development
 
-Nowadays, I keep **learning every day** and trying to **improve myself**.
+<table>
+    <tr>
+        <td><strong>Adquired</strong></td>
+        <td>
+            <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="./icons/html5.svg"/></a>
+            <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="./icons/css.svg"/></a>
+            <a href="https://developer.mozilla.org/en-US/docs/Web/javascript"><img src="./icons/javascript.svg"/></a>
+        </td>
+    </tr>
+</table>
 
-## Skills
+### ✔️ Version Control
 
-### Languages
+<table>
+    <tr>
+        <td><strong>Adquired</strong></td>
+        <td>
+            <a href="https://git-scm.com/"><img src="./icons/git.svg"/></a>
+            <a href="https://github.com"><img src="./icons/github.svg"/></a>
+        </td>
+    </tr>
+</table>
 
-![Bash](https://img.shields.io/badge/Bash-303030?style=for-the-badge&logo=GNUBash)
-![C](https://img.shields.io/badge/C-1e4882?style=for-the-badge&logo=C)
-![CPP](https://img.shields.io/badge/CPP-093775?style=for-the-badge&logo=CPlusPlus)
-![JavaScript](https://img.shields.io/badge/JavaScript-fff443?style=for-the-badge&logo=JavaScript&logoColor=white)
-![Python](https://img.shields.io/badge/python-ffea50?style=for-the-badge&logo=Python)
+### 🖌️ Design Tools
 
-### Web
+<table>
+    <tr>
+        <td><strong>Adquired</strong></td>
+        <td>
+            <a href="https://www.gimp.org/"><img src="./icons/gimp.svg"/></a>
+            <a href="https://www.adobe.com/products/photoshop.html"><img src="./icons/photoshop.svg"/></a>
+        </td>
+    </tr>
+</table>
 
-![CSS3](https://img.shields.io/badge/CSS3-0064db?style=for-the-badge&logo=CSS3)
-![HTML5](https://img.shields.io/badge/HTML5-fb8b42?style=for-the-badge&logo=HTML5)
+### ⌨️ IDE
 
-### Design Tools
+<table>
+    <tr>
+        <td><strong>Currently using</strong></td>
+        <td>
+            <a href="https://www.vim.org/"><img src="./icons/vim.svg"/></a>
+            <a href="https://code.visualstudio.com/"><img src="./icons/vscode.svg"/></a>
+        </td>
+    </tr>
+</table>
 
-![GIMP](https://img.shields.io/badge/GIMP-2a2a2a?style=for-the-badge&logo=GIMP)
-![Photoshop](https://img.shields.io/badge/Photoshop-002859?style=for-the-badge&logo=AdobePhotoshop)
+### 🖥️ Operating Systems
 
-### Version Control
+<table>
+    <tr>
+        <td><strong>Currently using</strong></td>
+        <td><a href="https://www.debian.org/"><img src="./icons/debian.svg"/></</a>td>
+    </tr>
+    <tr>
+        <td><strong>Used before</strong></td>
+        <td>
+            <a href="https://www.microsoft.com/en-us/windows"><img src="./icons/windows.svg"/></a>
+            <a href="https://www.apple.com/mac/"><img src="./icons/apple.svg"/></a>
+            <a href="https://ubuntu.com/"><img src="./icons/ubuntu.svg"/></a>
+        </td>
+    </tr>
+</table>
 
-![Git](https://img.shields.io/badge/git-FF6400?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/static/v1?label=&message=GitHub&color=171515&logo=github&logoColor=white&style=for-the-badge)
+### ☁️ Terminal
 
-### IDE
+<table>
+    <tr>
+        <td><strong>Currently using</strong></td>
+        <td>
+            <a href="https://alacritty.org/"><img src="./icons/alacritty.svg"/></a>
+        </td>
+    </tr>
+</table>
 
-![VIM](https://img.shields.io/badge/VIM-2f7a12?style=for-the-badge&logo=VIM)
-![VS Code](https://img.shields.io/badge/VS_Code-2f92b2?style=for-the-badge&logo=VisualStudioCode)
+## 😊 Connect with me
 
-### Operating Systems
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=0483c7&color=005a8a)
+![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=GitHub&logoColor=white&labelColor=232323&color=1b1b1b)
 
-![Linux](https://img.shields.io/badge/Linux-1e1e1e?style=for-the-badge&logo=Linux)
-![Windows](https://img.shields.io/badge/Windows-2f92b2?style=for-the-badge&logo=Windows)
+## 🦔 More about me
 
-## Stats
+- I can **speak Spanish** _(Native)_, **English** _(B2)_, **Tagalog** _(A2)_ and **French** _(A1)_.
+- My **favourite animal** is the **hedgehog**.
+- I'm always **listening to music**.
+- I like to watch **anime** and sometimes I **read** manga.
+- My **favourite character** is **Chopper** from One Piece.
+- I used to **play videogames** a lot, but now I _**do magic**_.
 
-[![SrVariable's GitHub stats](https://github-readme-stats.vercel.app/api?username=srvariable&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+## 💯 Stats
 
-[![SrVariable's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=srvariable&layout=donut&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=srvariable&theme=dracula&card_width=500)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=srvariable&theme=dracula&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![Wakatime Lang Stats](https://github-readme-stats.vercel.app/api/wakatime?username=srvariable&langs_count=10&layout=compact&theme=dracula&card_width=100)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub Contributions](https://github.com/SrVariable/SrVariable/blob/output/github-contribution-grid-snake-dark.svg)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=srvariable&no-frame=true&theme=dracula&column=5)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=srvariable&color=blueviolet&style=flat)
 
-## Social Media
+![Snake Contribution](https://github.com/SrVariable/SrVariable/blob/output/github-contribution-grid-snake-dark.svg)
 
-[![GitHub](https://img.shields.io/static/v1?label=&message=GitHub&color=171515&logo=github&logoColor=white&style=for-the-badge)](https://github.com/SrVariable)
-[![LinkedIn](https://img.shields.io/static/v1?label=&message=LinkedIn&color=0e76a8&logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/ribanab/)
+## 💡 Random Facts
 
-## Fun Fact
-
-- Learning how to say "I don't know how to speak _whatever language_" in that language might be helpful!
-- My name is pronounced _ɹɑ-dʒæn_ (IPA) _roh-jahn_ (SPA)
+- Learning how to say "I don't know how to speak `language` " in `language` might be helpful!
+- My name is often mispronounced. It should be _ɹɑ-dʒæn_ (IPA) _roh-jahn_ (SPA)
