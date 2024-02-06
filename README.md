@@ -64,7 +64,7 @@ Hey! My name is Rojohn and I'm 20 years old. I'm currently studying at 42 Malaga
     </tr>
 </table>
 
-### ⌨️ IDE
+### ⌨️ Text Editor
 
 <table>
     <tr>
