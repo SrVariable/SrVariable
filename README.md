@@ -53,7 +53,7 @@ Hey! My name is Rojohn and I'm 20 years old. I'm currently studying at 42 Malaga
 </table>
 
 <details>
-<summary>➕ Watch more</summary>
+<summary><h3>➕ Watch more</h3></summary>
 
 ### 🖌️ Design Tools
 
@@ -125,18 +125,16 @@ Hey! My name is Rojohn and I'm 20 years old. I'm currently studying at 42 Malaga
 - I used to **play videogames** a lot, but now I _**do magic**_.
 
 ## 💯 Stats
-
-<div align=center>
     
-[![Wakatime Lang Stats](https://github-readme-stats.vercel.app/api/wakatime?username=srvariable&langs_count=10&layout=compact&theme=dracula&card_width=150&card_height=150)](https://github.com/anuraghazra/github-readme-stats)
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=srvariable&theme=dracula&card_width=500&card_height=500)](https://github.com/anuraghazra/github-readme-stats)
+[![Wakatime Lang Stats](https://github-readme-stats.vercel.app/api/wakatime?username=srvariable&langs_count=10&layout=compact&theme=dracula&card_width=150)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=srvariable&no-frame=true&theme=dracula&column=10)](https://github.com/ryo-ma/github-profile-trophy)
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=srvariable&theme=dracula&card_width=150)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=srvariable&no-frame=true&theme=dracula&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=srvariable&color=blueviolet&style=flat)
 
 ![Snake Contribution](https://github.com/SrVariable/SrVariable/blob/output/github-contribution-grid-snake-dark.svg)
-</div>
 
 ## 💡 Random Facts
 
