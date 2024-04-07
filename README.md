@@ -115,6 +115,13 @@ Hey! My name is Rojohn and I'm 20 years old. I'm currently studying at 42 Malaga
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=0483c7&color=005a8a)](https://www.linkedin.com/in/ribanab/)
 [![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=GitHub&logoColor=white&labelColor=232323&color=1b1b1b)](https://github.com/SrVariable)
 
+## 📚 Projects
+
+- [42 Common Core](https://github.com/ribana-b)
+- [Rubik Cube](https://github.com/SrVariable/RubikCube)
+- [Brainfuck Interpreter](https://github.com/SrVariable/BrainfuckInterpreter)
+
+
 ## 🦔 More about me
 
 - I can **speak Spanish** _(Native)_, **English** _(B2)_, **Tagalog** _(A2)_ and **French** _(A1)_.
