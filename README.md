@@ -118,15 +118,22 @@ I have my projects divided on different organisations:
 
 ## 💯 Stats
 
-<section align=center>
-    <div>
-        <img src="https://github-profile-trophy.vercel.app/?username=srvariable&no-frame=true&theme=dracula&column=3)](https://github.com/ryo-ma/github-profile-trophy" />    
-    </div>
-    <span>
-        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=srvariable&langs_count=10&layout=compact&theme=dracula&card_width=150)](https://github.com/anuraghazra/github-readme-stats" />
-        <img src="https://github-readme-stats.vercel.app/api?username=srvariable&theme=dracula&card_width=150)](https://github.com/anuraghazra/github-readme-stats" />
-    </span>
-</section>
+<table align=center>
+    <tr>
+        <td colspan=2 align=center>
+            <img src="https://github-profile-trophy.vercel.app/?username=srvariable&no-frame=true&theme=dracula&column=3)](https://github.com/ryo-ma/github-profile-trophy" />    
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="https://github-readme-stats.vercel.app/api/wakatime?username=srvariable&langs_count=10&layout=compact&theme=dracula&card_width=150)](https://github.com/anuraghazra/github-readme-stats" />
+        </td>
+        <td>
+            <img src="https://github-readme-stats.vercel.app/api?username=srvariable&theme=dracula&card_width=150)](https://github.com/anuraghazra/github-readme-stats" />  
+        </td>
+    </tr>
+</table>
+
 <section align=center>
     <div>
         <img src="https://komarev.com/ghpvc/?username=srvariable&color=blueviolet&style=flat"/>
