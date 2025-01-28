@@ -1,126 +1,140 @@
 ## 👋 Brief description
 
-Hey! My name is Rojohn and I'm 21 years old. I'm currently studying at 42 Malaga and a Higher Technician in Web Development Application.
+Hey! My name is Rojohn and I'm 21 years old. I'm currently studying at 42 Malaga and a Higher Technician Diploma in Web Development Application.
 
 > ***I don't program, I do magic.***
 
 ## 🛠️ Skills
 
-### 🔤 Programming Languages
-
 <table>
-    <tr>
-        <td><strong>Adquired</strong></td>
-        <td>
-            <a href="https://www.gnu.org/software/bash"/><img src="./icons/bash.svg"/></a>
-            <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="./icons/c.svg"/></a>
-            <a href="https://cplusplus.com/"><img src="./icons/cpp.svg"/></a>
-            <a href="https://www.java.com"><img src="./icons/java.svg"/></a>
-            <a href="https://www.python.org/"><img src="./icons/python.svg"/></a>
-        </td>
-    </tr>
-    <tr>
-        <td><strong>Learning</strong></td>
-        <td>
-            <a href="https://www.rust-lang.org"><img src="./icons/rust.svg"/></a>
-        </td>
-    </tr>
-<table>
-
-### 💻 Web Development
-
-<table>
-    <tr>
-        <td><strong>Adquired</strong></td>
-        <td>
-            <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="./icons/html5.svg"/></a>
-            <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="./icons/css.svg"/></a>
-            <a href="https://developer.mozilla.org/en-US/docs/Web/javascript"><img src="./icons/javascript.svg"/></a>
-        </td>
-    </tr>
+    <thead>
+        <tr>
+            <th></th>
+            <th>🎓 Experimented</th>
+            <th>👓 Experimenting</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr align=left>
+            <th>🔤 Languages</th>
+            <td>
+                <img src="./icons/c.svg"/>
+                <img src="./icons/cpp.svg"/>
+                <img src="./icons/java.svg"/>
+                <img src="./icons/python.svg"/>
+                <img src="./icons/html5.svg"/>
+                <img src="./icons/css.svg"/>
+                <img src="./icons/javascript.svg"/>
+                <img src="./icons/bash.svg"/>
+                <img src="./icons/rust.svg"/>
+                <img src="./icons/typescript.svg"/>
+            </td>
+            <td>
+                <img src="./icons/assembly.svg"/>
+            </td>
+        </tr>
+        <tr align=left>
+            <th>✔️ Version Control</th>
+            <td>
+                <img src="./icons/git.svg" />
+                <img src="./icons/github.svg" />
+            </td>
+            <td>
+            </td>
+        </tr>
+        <tr align=left>
+            <th>🎆 Frameworks</th>
+            <td></td>
+            <td>
+                <img src="./icons/astro.svg"/>
+                <img src="./icons/tailwindcss.svg"/>
+            </td>
+        </tr>
+        <tr align=left>
+            <th>📥 Virtualization</th>
+            <td>
+                <img src="./icons/virtualbox.svg"/>
+                <img src="./icons/docker.svg"/>
+            </td>
+            <td>
+            </td>
+        </tr>
+        <tr align=left>
+            <th>📝 Documentation</th>
+            <td>
+                <img src="./icons/obsidian.svg"/>
+                <img src="./icons/notion.svg"/>
+            </td>
+            <td>
+            </td>
+        </tr>
+        <tr align=left>
+            <th>⌨️ Editor</th>
+            <td>
+                <img src="./icons/vim.svg" />
+                <img src="./icons/vscode.svg" />
+                <img src="./icons/eclipse.svg" />
+                <img src="./icons/neovim.svg" />
+            </td>
+            <td>
+            </td>
+        </tr>
+        <tr align=left>
+            <th>🖥️ OS</th>
+            <td>
+                <img src="./icons/debian.svg" />
+                <img src="./icons/windows.svg" />
+                <img src="./icons/apple.svg" />
+                <img src="./icons/ubuntu.svg" />
+            </td>
+            <td>
+            </td>
+        </tr>
+        <tr align=left>
+            <th>🐚 Terminal</th>
+            <td>
+                <img src="./icons/alacritty.svg"/>
+            </td>
+            <td>
+            </td>
+        </tr>
+        <tr align=left>
+            <th>🐚 Design</th>
+            <td>
+                <img src="./icons/gimp.svg"/>
+                <img src="./icons/photoshop.svg"/>
+            </td>
+            <td>
+            </td>
+        </tr>
+    </tbody>
 </table>
-
-### ✔️ Version Control
-
-<table>
-    <tr>
-        <td><strong>Adquired</strong></td>
-        <td>
-            <a href="https://git-scm.com/"><img src="./icons/git.svg"/></a>
-            <a href="https://github.com"><img src="./icons/github.svg"/></a>
-        </td>
-    </tr>
-</table>
-
-<details>
-<summary><strong>➕ Watch more</strong></summary>
-
-### 🖌️ Design Tools
-
-<table>
-    <tr>
-        <td><strong>Adquired</strong></td>
-        <td>
-            <a href="https://www.gimp.org/"><img src="./icons/gimp.svg"/></a>
-            <a href="https://www.adobe.com/products/photoshop.html"><img src="./icons/photoshop.svg"/></a>
-        </td>
-    </tr>
-</table>
-
-### ⌨️ Editor
-
-<table>
-    <tr>
-        <td><strong>Currently using</strong></td>
-        <td>
-            <a href="https://www.vim.org/"><img src="./icons/vim.svg"/></a>
-            <a href="https://code.visualstudio.com/"><img src="./icons/vscode.svg"/></a>
-        </td>
-    </tr>
-</table>
-
-### 🖥️ Operating Systems
-
-<table>
-    <tr>
-        <td><strong>Currently using</strong></td>
-        <td>
-            <a href="https://www.debian.org/"><img src="./icons/debian.svg"/></a>
-        </td>
-    </tr>
-    <tr>
-        <td><strong>Used before</strong></td>
-        <td>
-            <a href="https://www.microsoft.com/en-us/windows"><img src="./icons/windows.svg"/></a>
-            <a href="https://www.apple.com/mac/"><img src="./icons/apple.svg"/></a>
-            <a href="https://ubuntu.com/"><img src="./icons/ubuntu.svg"/></a>
-        </td>
-    </tr>
-</table>
-
-### ☁️ Terminal
-
-<table>
-    <tr>
-        <td><strong>Currently using</strong></td>
-        <td>
-            <a href="https://alacritty.org/"><img src="./icons/alacritty.svg"/></a>
-        </td>
-    </tr>
-</table>
-</details>
-
-## 😊 Connect with me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=0483c7&color=005a8a)](https://www.linkedin.com/in/ribanab/)
-[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=GitHub&logoColor=white&labelColor=232323&color=1b1b1b)](https://github.com/SrVariable)
 
 ## 📚 Projects
 
-- [42 Common Core](https://github.com/ribana-b)
-- [Rubik Cube](https://github.com/SrVariable/RubikCube)
-- [Brainfuck Interpreter](https://github.com/SrVariable/BrainfuckInterpreter)
+I have my projects divided on different organisations:
+- [ribana-b](https://github.com/ribana-b): Projects related to 42 School
+- [ribaban-DAW](https://github.com/ribaban-DAW): Projects related to Higher Technician Diploma Web Application Development
 
+## 💯 Stats
+
+<section align=center>
+    <div>
+        <img src="https://github-profile-trophy.vercel.app/?username=srvariable&no-frame=true&theme=dracula&column=3)](https://github.com/ryo-ma/github-profile-trophy" />    
+    </div>
+    <span>
+        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=srvariable&langs_count=10&layout=compact&theme=dracula&card_width=150)](https://github.com/anuraghazra/github-readme-stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=srvariable&theme=dracula&card_width=150)](https://github.com/anuraghazra/github-readme-stats" />
+    </span>
+</section>
+<section align=center>
+    <div>
+        <img src="https://komarev.com/ghpvc/?username=srvariable&color=blueviolet&style=flat"/>
+    </div>
+    <div>
+        <img src="https://github.com/SrVariable/SrVariable/blob/output/github-contribution-grid-snake-dark.svg"/>
+    </div>
+</section>
 
 ## 🦔 More about me
 
@@ -131,19 +145,12 @@ Hey! My name is Rojohn and I'm 21 years old. I'm currently studying at 42 Malaga
 - My **favourite character** is **Chopper** from One Piece.
 - I used to **play videogames** a lot, but now I _**do magic**_.
 
-## 💯 Stats
-    
-[![Wakatime Lang Stats](https://github-readme-stats.vercel.app/api/wakatime?username=srvariable&langs_count=10&layout=compact&theme=dracula&card_width=150)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=srvariable&theme=dracula&card_width=150)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=srvariable&no-frame=true&theme=dracula&column=3)](https://github.com/ryo-ma/github-profile-trophy)
-
-![Profile View Counter](https://komarev.com/ghpvc/?username=srvariable&color=blueviolet&style=flat)
-
-![Snake Contribution](https://github.com/SrVariable/SrVariable/blob/output/github-contribution-grid-snake-dark.svg)
-
 ## 💡 Random Facts
 
 - Learning how to say "I don't know how to speak `language` " in `language` might be helpful!
 - My name is often mispronounced. It should be _ɹɑ-dʒæn_ (IPA) _roh-jahn_ (SPA)
+
+## 😊 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=0483c7&color=005a8a)](https://www.linkedin.com/in/ribanab/)
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=GitHub&logoColor=white&labelColor=232323&color=1b1b1b)](https://github.com/SrVariable)
