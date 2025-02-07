@@ -99,7 +99,7 @@ Hey! My name is Rojohn and I'm 21 years old. I'm currently studying at 42 Malaga
             </td>
         </tr>
         <tr align=left>
-            <th>🐚 Design</th>
+            <th>🖌️ Design</th>
             <td>
                 <img src="./icons/gimp.svg"/>
                 <img src="./icons/photoshop.svg"/>
