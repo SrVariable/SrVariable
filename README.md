@@ -21,6 +21,7 @@ Hey! My name is Rojohn and I'm 21 years old. I'm currently studying at 42 Malaga
                 <img src="./icons/c.svg"/>
                 <img src="./icons/cpp.svg"/>
                 <img src="./icons/java.svg"/>
+                <img src="./icons/go.svg"/>
                 <img src="./icons/python.svg"/>
                 <img src="./icons/html5.svg"/>
                 <img src="./icons/css.svg"/>
@@ -44,10 +45,11 @@ Hey! My name is Rojohn and I'm 21 years old. I'm currently studying at 42 Malaga
         </tr>
         <tr align=left>
             <th>🎆 Frameworks</th>
-            <td></td>
             <td>
                 <img src="./icons/astro.svg"/>
                 <img src="./icons/tailwindcss.svg"/>
+            </td>
+            <td>
             </td>
         </tr>
         <tr align=left>
@@ -82,6 +84,7 @@ Hey! My name is Rojohn and I'm 21 years old. I'm currently studying at 42 Malaga
         <tr align=left>
             <th>🖥️ OS</th>
             <td>
+                <img src="./icons/arch.svg" />
                 <img src="./icons/debian.svg" />
                 <img src="./icons/windows.svg" />
                 <img src="./icons/apple.svg" />
@@ -159,5 +162,5 @@ I have my projects divided on different organisations:
 
 ## 😊 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=0483c7&color=005a8a)](https://www.linkedin.com/in/ribanab/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=0483c7&color=005a8a)](https://www.linkedin.com/in/srvariable/)
 [![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=GitHub&logoColor=white&labelColor=232323&color=1b1b1b)](https://github.com/SrVariable)

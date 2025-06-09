@@ -12,6 +12,7 @@
 ## Sources
 
 - Alacritty: https://svgl.app/directory/software?search=alacritty
+- Arch Linux: https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg
 - Assembly: I made it using Inkscape
 - Apple: https://svgl.app/directory/software?search=apple
 - Astro: https://svgl.app/directory/framework?search=astro
@@ -25,6 +26,7 @@
 - GIMP: https://svgl.app/directory/design?search=gimp
 - Git: https://svgl.app/directory/software?search=git
 - GitHub: https://svgl.app/directory/software?search=github
+- Go: https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Blue.svg
 - HTML5: https://svgl.app/directory/language?search=html5
 - Java: https://svgl.app/directory/language?search=java
 - JavaScript: https://svgl.app/directory/language?search=javascript
