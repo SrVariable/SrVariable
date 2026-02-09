@@ -129,10 +129,10 @@ I have my projects divided on different organisations:
     </tr>
     <tr>
         <td>
-            <img src="https://github-readme-stats-rojohns-projects.vercel.app/api/wakatime?username=srvariable&langs_count=10&layout=compact&theme=dracula&card_width=150" />
+            <img src="https://github-readme-stats-theta-ten-84.vercel.app/api/wakatime?username=srvariable&langs_count=10&layout=compact&theme=dracula&card_width=150" />
         </td>
         <td>
-            <img src="https://github-readme-stats-rojohns-projects.vercel.app/api?username=srvariable&theme=dracula&card_width=150" />  
+            <img src="https://github-readme-stats-theta-ten-84.vercel.app/api?username=srvariable&theme=dracula&card_width=150" />  
         </td>
     </tr>
 </table>
