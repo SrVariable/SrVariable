@@ -124,7 +124,7 @@ I have my projects divided on different organisations:
 <table align=center>
     <tr>
         <td colspan=2 align=center>
-            <img src="https://github-profile-trophy.vercel.app/?username=srvariable&no-frame=true&theme=dracula&column=3)](https://github.com/ryo-ma/github-profile-trophy" />    
+            <img src="https://trophy.ryglcloud.net/?username=srvariable&no-frame=true&theme=dracula&column=3)](https://github.com/ryo-ma/github-profile-trophy" />    
         </td>
     </tr>
     <tr>
