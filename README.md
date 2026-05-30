@@ -1,6 +1,6 @@
 ## 👋 Brief description
 
-Hey! My name is Rojohn and I'm 22 years old. I'm currently studying at 42 Malaga and a Higher Technician Diploma in Web Development Application.
+Hey! My name is Rojohn and I'm 22 years old. I'm currently studying at 42 Malaga.
 
 > ***I don't program, I do magic.***
 
