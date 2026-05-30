@@ -8,53 +8,31 @@ Hey! My name is Rojohn and I'm 22 years old. I'm currently studying at 42 Malaga
 
 ### 🔤 Languages
 
-<img src="./icons/c.svg"/>
-<img src="./icons/cpp.svg"/>
-<img src="./icons/java.svg"/>
-<img src="./icons/go.svg"/>
-<img src="./icons/python.svg"/>
-<img src="./icons/html5.svg"/>
-<img src="./icons/css.svg"/>
-<img src="./icons/javascript.svg"/>
-<img src="./icons/bash.svg"/>
-<img src="./icons/rust.svg"/>
-<img src="./icons/typescript.svg"/>
-<img src="./icons/assembly.svg"/>
+<img src="./icons/c.svg"/> <img src="./icons/cpp.svg"/> <img src="./icons/java.svg"/> <img src="./icons/go.svg"/> <img src="./icons/python.svg"/> <img src="./icons/html5.svg"/> <img src="./icons/css.svg"/> <img src="./icons/javascript.svg"/> <img src="./icons/bash.svg"/> <img src="./icons/rust.svg"/> <img src="./icons/typescript.svg"/> <img src="./icons/assembly.svg"/>
 
 ### ✔️ Version Control
 
-<img src="./icons/git.svg"/>
-<img src="./icons/github.svg"/>
+<img src="./icons/git.svg"/> <img src="./icons/github.svg"/>
 
 ### 🎆 Frameworks
 
-<img src="./icons/astro.svg"/>
-<img src="./icons/tailwindcss.svg"/>
+<img src="./icons/astro.svg"/> <img src="./icons/tailwindcss.svg"/>
 
 ### 📥 Virtualization
 
-<img src="./icons/virtualbox.svg"/>
-<img src="./icons/docker.svg"/>
+<img src="./icons/virtualbox.svg"/> <img src="./icons/docker.svg"/>
 
 ### 📝 Documentation
 
-<img src="./icons/obsidian.svg"/>
-<img src="./icons/notion.svg"/>
+<img src="./icons/obsidian.svg"/> <img src="./icons/notion.svg"/>
 
 ### ⌨️ Editor
 
-<img src="./icons/vim.svg"/>
-<img src="./icons/vscode.svg"/>
-<img src="./icons/eclipse.svg"/>
-<img src="./icons/neovim.svg"/>
+<img src="./icons/vim.svg"/> <img src="./icons/vscode.svg"/> <img src="./icons/eclipse.svg"/> <img src="./icons/neovim.svg"/>
 
 ### 🖥️ OS
 
-<img src="./icons/arch.svg"/>
-<img src="./icons/debian.svg"/>
-<img src="./icons/windows.svg"/>
-<img src="./icons/apple.svg"/>
-<img src="./icons/ubuntu.svg"/>
+<img src="./icons/arch.svg"/> <img src="./icons/debian.svg"/> <img src="./icons/windows.svg"/> <img src="./icons/apple.svg"/> <img src="./icons/ubuntu.svg"/>
 
 ### 🐚 Terminal
 
@@ -62,8 +40,7 @@ Hey! My name is Rojohn and I'm 22 years old. I'm currently studying at 42 Malaga
 
 ### 🖌️ Design
 
-<img src="./icons/gimp.svg"/>
-<img src="./icons/photoshop.svg"/>
+<img src="./icons/gimp.svg"/> <img src="./icons/photoshop.svg"/>
 
 ## 📚 Projects
 
