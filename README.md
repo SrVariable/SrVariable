@@ -6,112 +6,64 @@ Hey! My name is Rojohn and I'm 22 years old. I'm currently studying at 42 Malaga
 
 ## 🛠️ Skills
 
-<table>
-    <thead>
-        <tr>
-            <th></th>
-            <th>🎓 Experimented</th>
-            <th>👓 Experimenting</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr align=left>
-            <th>🔤 Languages</th>
-            <td>
-                <img src="./icons/c.svg"/>
-                <img src="./icons/cpp.svg"/>
-                <img src="./icons/java.svg"/>
-                <img src="./icons/go.svg"/>
-                <img src="./icons/python.svg"/>
-                <img src="./icons/html5.svg"/>
-                <img src="./icons/css.svg"/>
-                <img src="./icons/javascript.svg"/>
-                <img src="./icons/bash.svg"/>
-                <img src="./icons/rust.svg"/>
-                <img src="./icons/typescript.svg"/>
-            </td>
-            <td>
-                <img src="./icons/assembly.svg"/>
-            </td>
-        </tr>
-        <tr align=left>
-            <th>✔️ Version Control</th>
-            <td>
-                <img src="./icons/git.svg" />
-                <img src="./icons/github.svg" />
-            </td>
-            <td>
-            </td>
-        </tr>
-        <tr align=left>
-            <th>🎆 Frameworks</th>
-            <td>
-                <img src="./icons/astro.svg"/>
-                <img src="./icons/tailwindcss.svg"/>
-            </td>
-            <td>
-            </td>
-        </tr>
-        <tr align=left>
-            <th>📥 Virtualization</th>
-            <td>
-                <img src="./icons/virtualbox.svg"/>
-                <img src="./icons/docker.svg"/>
-            </td>
-            <td>
-            </td>
-        </tr>
-        <tr align=left>
-            <th>📝 Documentation</th>
-            <td>
-                <img src="./icons/obsidian.svg"/>
-                <img src="./icons/notion.svg"/>
-            </td>
-            <td>
-            </td>
-        </tr>
-        <tr align=left>
-            <th>⌨️ Editor</th>
-            <td>
-                <img src="./icons/vim.svg" />
-                <img src="./icons/vscode.svg" />
-                <img src="./icons/eclipse.svg" />
-                <img src="./icons/neovim.svg" />
-            </td>
-            <td>
-            </td>
-        </tr>
-        <tr align=left>
-            <th>🖥️ OS</th>
-            <td>
-                <img src="./icons/arch.svg" />
-                <img src="./icons/debian.svg" />
-                <img src="./icons/windows.svg" />
-                <img src="./icons/apple.svg" />
-                <img src="./icons/ubuntu.svg" />
-            </td>
-            <td>
-            </td>
-        </tr>
-        <tr align=left>
-            <th>🐚 Terminal</th>
-            <td>
-                <img src="./icons/alacritty.svg"/>
-            </td>
-            <td>
-            </td>
-        </tr>
-        <tr align=left>
-            <th>🖌️ Design</th>
-            <td>
-                <img src="./icons/gimp.svg"/>
-                <img src="./icons/photoshop.svg"/>
-            </td>
-            <td>
-            </td>
-        </tr>
-    </tbody>
-</table>
+### 🔤 Languages
+
+<img src="./icons/c.svg"/>
+<img src="./icons/cpp.svg"/>
+<img src="./icons/java.svg"/>
+<img src="./icons/go.svg"/>
+<img src="./icons/python.svg"/>
+<img src="./icons/html5.svg"/>
+<img src="./icons/css.svg"/>
+<img src="./icons/javascript.svg"/>
+<img src="./icons/bash.svg"/>
+<img src="./icons/rust.svg"/>
+<img src="./icons/typescript.svg"/>
+<img src="./icons/assembly.svg"/>
+
+### ✔️ Version Control
+
+<img src="./icons/git.svg"/>
+<img src="./icons/github.svg"/>
+
+### 🎆 Frameworks
+
+<img src="./icons/astro.svg"/>
+<img src="./icons/tailwindcss.svg"/>
+
+### 📥 Virtualization
+
+<img src="./icons/virtualbox.svg"/>
+<img src="./icons/docker.svg"/>
+
+### 📝 Documentation
+
+<img src="./icons/obsidian.svg"/>
+<img src="./icons/notion.svg"/>
+
+### ⌨️ Editor
+
+<img src="./icons/vim.svg"/>
+<img src="./icons/vscode.svg"/>
+<img src="./icons/eclipse.svg"/>
+<img src="./icons/neovim.svg"/>
+
+### 🖥️ OS
+
+<img src="./icons/arch.svg"/>
+<img src="./icons/debian.svg"/>
+<img src="./icons/windows.svg"/>
+<img src="./icons/apple.svg"/>
+<img src="./icons/ubuntu.svg"/>
+
+### 🐚 Terminal
+
+<img src="./icons/alacritty.svg"/>
+
+### 🖌️ Design
+
+<img src="./icons/gimp.svg"/>
+<img src="./icons/photoshop.svg"/>
 
 ## 📚 Projects
 
