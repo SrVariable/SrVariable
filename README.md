@@ -1,6 +1,6 @@
 ## 👋 Brief description
 
-Hey! My name is Rojohn and I'm 22 years old. I'm currently studying at 42 Malaga.
+Hey! My name is Rojohn and I'm 23 years old. I'm currently studying at 42 Malaga.
 
 > ***I don't program, I do magic.***
 
@@ -61,7 +61,7 @@ I have my projects divided on different organisations:
             <img src="https://github-readme-stats-theta-ten-84.vercel.app/api/wakatime?username=srvariable&langs_count=10&layout=compact&theme=dracula&card_width=150" />
         </td>
         <td>
-            <img src="https://github-readme-stats-theta-ten-84.vercel.app/api?username=srvariable&theme=dracula&card_width=150" />  
+            <img src="https://github-stats-extended.vercel.app/api?username=SrVariable&rank_icon=percentile&custom_title=GitHub%20Stats&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=dracula" />
         </td>
     </tr>
 </table>
@@ -92,4 +92,3 @@ I have my projects divided on different organisations:
 ## 😊 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=0483c7&color=005a8a)](https://www.linkedin.com/in/srvariable/)
-[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=GitHub&logoColor=white&labelColor=232323&color=1b1b1b)](https://github.com/SrVariable)
