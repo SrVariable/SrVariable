@@ -50,21 +50,7 @@ I have my projects divided on different organisations:
 
 ## 💯 Stats
 
-<table align=center>
-    <tr>
-        <td colspan=2 align=center>
-            <img src="https://trophy.ryglcloud.net/?username=srvariable&no-frame=true&theme=dracula&column=3)](https://github.com/ryo-ma/github-profile-trophy" />    
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <img src="https://github-readme-stats-theta-ten-84.vercel.app/api/wakatime?username=srvariable&langs_count=10&layout=compact&theme=dracula&card_width=150" />
-        </td>
-        <td>
-            <img src="https://github-stats-extended.vercel.app/api?username=SrVariable&rank_icon=percentile&custom_title=GitHub%20Stats&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=dracula" />
-        </td>
-    </tr>
-</table>
+<img src="https://srvariable.github.io/stats-unifier/stats.svg" />
 
 <section align=center>
     <div>
