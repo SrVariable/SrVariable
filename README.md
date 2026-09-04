@@ -1,6 +1,6 @@
 ## 👋 Brief description
 
-Hey! My name is Rojohn and I'm 23 years old. I'm currently studying at 42 Malaga.
+Hey! I'm Rojohn, a Software Engineer based on Malaga, Spain. I'm currently studying at 42 Malaga.
 
 > ***I don't program, I do magic.***
 
